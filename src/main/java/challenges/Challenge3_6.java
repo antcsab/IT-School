@@ -15,16 +15,11 @@ public class Challenge3_6 {
         if (a>b) {
             System.out.println(a + " is greater then " + b);
         }
-        else if (a<b) {
+        else  if (a<b) {
             System.out.println(a + " is smaller than " + b);}
         else {
             System.out.println("The numbers are equal");
         }
-
-        }
-
-
-
-
     }
+}
 
