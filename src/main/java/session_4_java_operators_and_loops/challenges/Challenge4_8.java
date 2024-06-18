@@ -9,10 +9,7 @@ public class Challenge4_8 {
         int fact = 1;
         for (int i = 2; i < number; i++) {
             fact *= i;
-            {
-            }
         }
         System.out.println("The factorial of a number is: " + fact);
-
     }
 }
