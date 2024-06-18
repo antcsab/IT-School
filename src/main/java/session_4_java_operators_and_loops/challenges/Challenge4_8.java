@@ -5,13 +5,14 @@ package session_4_java_operators_and_loops.challenges;
 
 public class Challenge4_8 {
     public static void main(String[] args) {
+        int number = 8;
         int fact = 1;
-        for (int i = 0; i < 24; i++) {;
-        fact *= i;
+        for (int i = 2; i < number; i++) {
+            fact *= i;
             {
-                System.out.println("The factorial of a number is: " + fact);
             }
         }
+        System.out.println("The factorial of a number is: " + fact);
 
     }
 }
