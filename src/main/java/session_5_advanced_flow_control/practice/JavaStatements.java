@@ -18,7 +18,7 @@ public class JavaStatements {
         if (greeting.length() > MAX_VALUE) {
             System.out.println("String is too long ");
         } else if (greeting.equals("Hello")) {
-            System.out.println("The greeting is Hello");
+            System.out.println("The greeting is Hello ");
         } else {
             System.out.println("Unknown greeting");
         }

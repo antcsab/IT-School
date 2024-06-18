@@ -20,7 +20,7 @@ public class SwichStatments {
     private static void printDayOfWeek() {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter a number from 1 to 7 for the day of the week");
+        System.out.println("Enter a number from 1 to 7 for the day of the week ");
         int day = sc.nextInt();
         sc.close();
 

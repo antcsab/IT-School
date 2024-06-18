@@ -14,9 +14,9 @@ public class FlowControl {
                // array index 0,1,2
 
         List<String> cities = new ArrayList<>();
-        cities.add("New York"); // index 0
-        cities.add("Bucharest"); //index 1
-        cities.add("Hong Kong"); // index 2
+        cities.add("New York "); // index 0
+        cities.add("Bucharest "); //index 1
+        cities.add("Hong Kong" ); // index 2
                                    // index 3 ???
 
         System.out.println(cities.get(1));
