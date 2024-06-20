@@ -21,7 +21,6 @@ public class Challenge5_7 {
                     System.out.println("Enter a lower number, this number is to high ");
                 } else {
                     System.out.println("Yupppy, you guessed the number");
-                    break;
                 }
             }
         }
