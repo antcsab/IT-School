@@ -12,7 +12,7 @@ package session_7_utility_classes.challenges;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class challenge7_4 {
+public class Challenge7_4 {
 
     public static void main(String[] args) {
         System.out.println("Enter the first date: ");

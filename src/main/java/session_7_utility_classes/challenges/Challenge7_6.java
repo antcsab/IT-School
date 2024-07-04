@@ -6,7 +6,7 @@ package session_7_utility_classes.challenges;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-public class challenge7_6 {
+public class Challenge7_6 {
 
     public static void main(String[] args) {
         displayCurentTime();

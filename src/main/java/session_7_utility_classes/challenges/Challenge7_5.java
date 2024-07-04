@@ -8,7 +8,7 @@ package session_7_utility_classes.challenges;
 
 import java.time.LocalDate;
 
-public class challenge7_5 {
+public class Challenge7_5 {
 
     public static void main(String[] args) {
         System.out.println(isTodaySpecificDate());

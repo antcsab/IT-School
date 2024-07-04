@@ -9,7 +9,7 @@ package session_7_utility_classes.challenges;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class challenge7_7 {
+public class Challenge7_7 {
 
     public static void main(String[] args) {
         System.out.println("Add the number of the week: ");
