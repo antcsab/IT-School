@@ -1,4 +1,4 @@
-package challenges;
+package session_3_java_operators.challenges;
 // Create a program that takes two byte values, adds them together, and stores the result in a byte variable.
 
 public class Challenge3_8 {

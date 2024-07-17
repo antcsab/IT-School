@@ -1,4 +1,4 @@
-package challenges;
+package session_3_java_operators.challenges;
 
 // Write a program where you perform operations between an integer and a double. Display the result.
 

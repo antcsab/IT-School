@@ -1,4 +1,4 @@
-package challenges;
+package session_3_java_operators.challenges;
 //Create a Java program that demonstrates the use of each compound assignment operator with integers.
 
 public class Challange3_5 {

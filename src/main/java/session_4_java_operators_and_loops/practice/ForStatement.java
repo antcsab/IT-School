@@ -19,5 +19,4 @@ public class ForStatement {
             System.out.println(number);
         }
     }
-
 }

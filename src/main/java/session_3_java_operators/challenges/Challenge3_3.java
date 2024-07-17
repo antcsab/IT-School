@@ -1,4 +1,4 @@
-package challenges;
+package session_3_java_operators.challenges;
 //Write a program to check if a number is positive or negative using logical complement operator;
 
 import java.util.Scanner;

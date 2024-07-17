@@ -1,4 +1,4 @@
-package challenges;
+package session_3_java_operators.challenges;
 
 //Create a Java program where you increment and decrement the same variable. Display the value of the variable after
 // each operation.
