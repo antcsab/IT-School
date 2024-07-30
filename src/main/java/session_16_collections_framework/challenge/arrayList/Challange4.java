@@ -5,7 +5,7 @@ package session_16_collections_framework.challenge.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Chellange4 {
+public class Challange4 {
 
     public static void main(String[] args) {
 
