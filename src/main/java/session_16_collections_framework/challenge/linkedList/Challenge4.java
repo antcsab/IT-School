@@ -15,14 +15,14 @@ public class Challenge4 {
         }
         System.out.print("The generate list is: ");
         System.out.println(" " + myLinkedList);
-        for (int index = 7; index > 0; index--) {
-            Collections.reverse(myLinkedList);
-        }
         System.out.println();
-        System.out.println("The reversed list is: " + myLinkedList);
+        System.out.print("The reversed list is: ");
+        for (int i = myLinkedList.size(); i > 0; i--) {
+            //Collections.reverse(myLinkedList);
+            System.out.print(", " + myLinkedList.get(i - 1));
+        }
     }
 }
-
 
 
 
