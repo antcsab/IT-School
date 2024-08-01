@@ -12,6 +12,9 @@ public class Challenge2 {
         for (int index = 0; index < 12; index++) {
             list.add(index);
         }
-        System.out.println("Itarate all elements in the list: " + list);
+        System.out.println("The generate list is: ");
+        for (int number : list) {
+            System.out.print("  " + number);
+        }
     }
 }
